@@ -1,0 +1,7 @@
+c:\users\mebalc01\documents\visual studio 2012\Projects\Prog0\Prog0\bin\Debug\Prog0.exe.config
+C:\Users\mebalc01\Desktop\CIS 200\Prog0\Prog0\bin\Debug\Prog0.exe.config
+C:\Users\mebalc01\Desktop\CIS 200\Prog0\Prog0\obj\Debug\Prog0.csprojResolveAssemblyReference.cache
+C:\Users\mebalc01\Desktop\CIS 200\Prog0\Prog0\bin\Debug\Prog0.exe
+C:\Users\mebalc01\Desktop\CIS 200\Prog0\Prog0\bin\Debug\Prog0.pdb
+C:\Users\mebalc01\Desktop\CIS 200\Prog0\Prog0\obj\Debug\Prog0.exe
+C:\Users\mebalc01\Desktop\CIS 200\Prog0\Prog0\obj\Debug\Prog0.pdb
